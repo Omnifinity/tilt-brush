@@ -18,7 +18,7 @@ This fixes many quality-of-life issues with the Steam release of Tilt Brush, inc
 
 **Note**: These steps assume you already have LIV setup with a camera. See [LIV's help site](https://help.liv.tv) for guides, troubleshooting, and FAQs.
 
-1. Download the latest build here.
+1. Download the [latest build here](https://github.com/LIV/tilt-brush/releases/latest).
 2. Extract the zip to a folder on your PC somewhere.
 3. Double-click `LIVForTiltBrush.exe`.
 4. Switch to LIV's manual capture mode. `Capture`, `Manual`
