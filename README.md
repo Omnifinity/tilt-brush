@@ -23,7 +23,7 @@ This fixes many quality-of-life issues with the Steam release of Tilt Brush, inc
 3. Double-click `LIVForTiltBrush.exe`.
 4. Switch to LIV's manual capture mode. `Capture`, `Manual`
 5. Select the `SDK: Normal (Masked FG Premultiplied)` effect.
-6. Select `LIVForTiltBrush.exe` from the target list. (Make sure LIV for Tilt Brush is not mimimised)
+6. Select `LIVForTiltBrush.exe` from the target list. (Make sure LIV for Tilt Brush is not minimised)
 
 **You do not need to export calibration!**
 
