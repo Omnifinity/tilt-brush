@@ -1,7 +1,31 @@
-# Tilt Brush README
+# LIV for Tilt Brush README
 
 Tilt Brush is licensed under Apache 2.0. It is not an officially supported
 Google product. See the [LICENSE](LICENSE) file for more details.
+
+## LIV
+
+This fork of Tilt Brush has only been modified to include LIV SDKv1.5 for Unity.
+
+This fixes many quality-of-life issues with the Steam release of Tilt Brush, including:
+
+- Blending of brushes is now more "correct". Opaque brushes correctly occlude the artist, and additive (glowing) brushes correctly brighten the artist.
+- The Tilt Brush window can be used as a first-person mirror again.
+- You can adjust the render resolution of LIV independently of your monitor size.
+- Switching cameras in LIV happens smoothly and instantly.
+
+### Capturing with LIV
+
+**Note**: These steps assume you already have LIV setup with a camera. See [LIV's help site](https://help.liv.tv) for guides, troubleshooting, and FAQs.
+
+1. Download the latest build here.
+2. Extract the zip to a folder on your PC somewhere.
+3. Double-click `LIVForTiltBrush.exe`.
+4. Switch to LIV's manual capture mode. `Capture`, `Manual`
+5. Select the `SDK: Normal (Masked FG Premultiplied)` effect.
+6. Select `LIVForTiltBrush.exe` from the target list. (Make sure LIV for Tilt Brush is not mimimised)
+
+**You do not need to export calibration!**
 
 ## Trademarks
 
