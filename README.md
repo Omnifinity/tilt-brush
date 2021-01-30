@@ -10,8 +10,9 @@ This fork of Tilt Brush has only been modified to include LIV SDKv1.5 for Unity.
 This fixes many quality-of-life issues with the Steam release of Tilt Brush, including:
 
 - Blending of brushes is now more "correct". Opaque brushes correctly occlude the artist, and additive (glowing) brushes correctly brighten the artist.
+- Bloom correctly blends with the artist.
 - The Tilt Brush window can be used as a first-person mirror again.
-- You can adjust the render resolution of LIV independently of your monitor size.
+- You can adjust LIV's render resolution of LIV independently of your monitor size.
 - Switching cameras in LIV happens smoothly and instantly.
 
 ### Capturing with LIV
