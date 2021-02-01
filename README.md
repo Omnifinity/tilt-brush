@@ -7,6 +7,9 @@ Google product. See the [LICENSE](LICENSE) file for more details.
 
 This fork adds the [Omnifinity Omnideck SteamVR API v1.17.8](https://github.com/Omnifinity/Unity-SteamVR-API "Omnideck Unity SteamVR API v1.17.8") to the [LIV v1.5 for Tilt Brush](https://github.com/LIV/tilt-brush "Liv for Tilt Brush") fork, initially forked from [Tilt Brush](https://github.com/googlevr/tilt-brush "Tilt Brush by Google"). This makes it possible to use Tilt Brush with the Omnideck while also capturing Mixed Reality content using LIV.
 
+## LIV
+The fork of Tilt Brush has only been modified to include LIV SDKv1.5 for Unity.
+
 This fixes many quality-of-life issues with the Steam release of Tilt Brush, including:
 
 - Blending of brushes is now more "correct". Opaque brushes correctly occlude the artist, and additive (glowing) brushes correctly brighten the artist.
