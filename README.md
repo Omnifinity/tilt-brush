@@ -1,4 +1,4 @@
-# LIV for Tilt Brush README
+# Omnideck with LIV for Tilt Brush README
 
 Tilt Brush is licensed under Apache 2.0. It is not an officially supported
 Google product. See the [LICENSE](LICENSE) file for more details.
