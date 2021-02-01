@@ -48,11 +48,11 @@ public class App : MonoBehaviour {
   // As a minimum, you should change kAppDisplayName.
   
   // This is the name of the app, as displayed to the users running it.
-  public const string kAppDisplayName = "LIV for Tilt Brush";
+  public const string kAppDisplayName = "Omnideck with LIV for Tilt Brush";
   // The vendor name - used for naming android builds - shouldn't have spaces.
-  public const string kVendorName = "LIV";
+  public const string kVendorName = "Omnifinity";
   // The vendor name - used for the company name in builds and fbx output. Can have spaces.
-  public const string kDisplayVendorName = "LIV Inc Sro";
+  public const string kDisplayVendorName = "Omnifinity";
   // This is the App name used when speaking to Google services
   public const string kGoogleServicesAppName = kAppDisplayName;
   // The name of the configuration file. You may want to change this if you think your users may
@@ -64,7 +64,7 @@ public class App : MonoBehaviour {
   // The data folder used on Google Drive.
   public const string kDriveFolderName = kAppDisplayName;
   // Executable Base
-  public const string kGuiBuildExecutableName = "LIVForTiltBrush";
+  public const string kGuiBuildExecutableName = "OmnideckWithLIVForTiltBrush";
   // Windows Executable
   public const string kGuiBuildWindowsExecutableName = kGuiBuildExecutableName + ".exe";
   // OSX Executable
